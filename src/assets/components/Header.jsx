@@ -15,7 +15,7 @@ const Header = () => {
             <div className='md:flex items-center justify-between py-4 md:px-10 px-7'>
                 {/* logo section */}
                 <div className='font-bold text-2xl cursor-pointer flex items-center gap-1'>
-                    <img src='src\assets\20191127-055332_ecell_logo-removebg.png' className='flex flex-row h-14 w-14' />
+                    <img src='src\20191127 055332_ecell_logo_960X960.jpg' className='flex flex-row h-14 w-14 pr-2' />
                     <span className='text-slate-200 pl-2 md:pl-0 pr-2 md:pr-2 '>PES ECELL</span>
                 </div>
                 {/* Menu icon */}
